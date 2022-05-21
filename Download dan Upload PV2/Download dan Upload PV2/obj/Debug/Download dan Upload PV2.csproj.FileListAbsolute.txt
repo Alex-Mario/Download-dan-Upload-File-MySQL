@@ -1,0 +1,7 @@
+E:\Data Sharp Develop\Download dan Upload PV2\Download dan Upload PV2\obj\Debug\Download dan Upload PV2.csprojResolveAssemblyReference.cache
+E:\Data Sharp Develop\Download dan Upload PV2\Download dan Upload PV2\obj\Debug\Download_dan_Upload_PV2.MainForm.resources
+E:\Data Sharp Develop\Download dan Upload PV2\Download dan Upload PV2\obj\Debug\Download dan Upload PV2.csproj.GenerateResource.Cache
+E:\Data Sharp Develop\Download dan Upload PV2\Download dan Upload PV2\bin\Debug\Download dan Upload PV2.exe
+E:\Data Sharp Develop\Download dan Upload PV2\Download dan Upload PV2\bin\Debug\Download dan Upload PV2.pdb
+E:\Data Sharp Develop\Download dan Upload PV2\Download dan Upload PV2\obj\Debug\Download dan Upload PV2.exe
+E:\Data Sharp Develop\Download dan Upload PV2\Download dan Upload PV2\obj\Debug\Download dan Upload PV2.pdb
